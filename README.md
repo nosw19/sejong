@@ -33,9 +33,11 @@
   <ul>
     <li><strong>언어</strong> : Python </li>
     <li><strong>머신 러닝 </strong>: 
-    <li>K-Means Clustering</li>
-    <li>MCLP</li>
-    <li>OPTICS</li> 
+      <ul>  
+        <li>K-Means Clustering</li>
+        <li>MCLP</li>
+        <li>OPTICS</li>
+      </ul>
   </li>
     <li><strong>시각화</strong> : folium, matplotlib
   </ul>
