@@ -54,6 +54,7 @@
         <li>시민 이동 데이터를 기반으로 거치대 위치 선정 중요성 분석</li>
       </ul>
     </li>
+    <br>
     <li><strong>2.데이터 설명</strong>
       <ul>
         <li><strong>활용 데이터:</strong>
@@ -71,12 +72,14 @@
         </li>
       </ul>
     </li>
+    <br>
     <li><strong>3.데이터 분석</strong>
       <ul>
-          <li>세종시 내 주요 도로 및 인구 밀집 지역 데이터 수집.</li>
-          <li>K-Means Clustering/ MCLP/ OPTICS를 사용하여 최적 거치대 위치 군집화
+          <li>세종시 내 주요 도로 및 인구 밀집 지역 데이터 수집</li>
+          <li>K-Means Clustering/ MCLP/ OPTICS를 사용하여 최적 거치대 위치 군집화</li>
       </ul>
     </li>
+    <br>
     <li><strong>4.결과 및 제안</strong>
       <ul>
         <li>세종시 내 14개의 행정동의 최적 거치대 입지 선정</li>
