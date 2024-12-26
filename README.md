@@ -32,7 +32,9 @@
   <h2><strong>🛠 사용 기술 스택</strong></h2>
   <ul>
     <li><strong>언어</strong> : Python </li>
-    <li><strong>머신 러닝 </strong>: K-Means Clustering <br> MCLP <br> OPTICS </li>
+    <li><strong>머신 러닝 </strong>: 
+    <li>K-Means Clustering</li> <br> <li>MCLP</li> <br> <li>OPTICS</li> 
+  </li>
     <li><strong>시각화</strong> : folium, matplotlib
   </ul>
 </div>
