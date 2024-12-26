@@ -31,7 +31,7 @@
 <div>
   <h2><strong>🛠 사용 기술 스택</strong></h2>
   <ul>
-    <li><strong>언어</strong>:Python </li>
+    <li><strong>언어</strong> : Python </li>
     <li><strong>머신 러닝 </strong>: K-Means Clustering <br> MCLP <br> OPTICS </li>
     <li><strong>시각화</strong> : folium, matplotlib
   </ul>
@@ -58,7 +58,7 @@
         </li>
         <li><strong>데이터 수집 출처:</strong>
           <ul>
-            <li>공공0데이터 포털</li>
+            <li>공공 데이터 포털</li>
             <li>세종시 교통 빅데이터분석 시스템</li>
             <li>KOSIS 국가통계포털</li>
           </ul>
